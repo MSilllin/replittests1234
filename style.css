@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+  body {
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+    background-color: #228B22; /* Dark green color */
+  
+}
+h1 {
+  color: #333;
+  text-align: center;
+}
+ol {
+  list-style-type: decimal;
+  margin: 20px 0;
+}
+img {
+  width: 300px;
+  height: 200px;
+  margin: 10px;
+  border: 1px solid #ccc;
